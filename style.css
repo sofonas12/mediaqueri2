@@ -1,0 +1,58 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: blue;
+}
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+}
+.container1{
+    margin: 20px;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+
+.post{
+    width: 200px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+.container3 {
+   display: flex;
+   justify-content: center;
+   align-items: baseline;
+   flex-wrap: wrap;
+}
+.ppp{
+position: relative;
+bottom: 20px;
+left: 50px;
+
+}
+.sofi1{
+    writing-mode: vertical-rl;
+}
+.sofi2{
+    writing-mode: vertical-rl;
+}
+.sofi3{
+    writing-mode: vertical-rl;
+}
+.sofi4{
+    writing-mode: vertical-rl;
+}
+.sofi5{
+    writing-mode: vertical-rl;
+}
+.sofi6{
+    writing-mode: vertical-rl;
+}
